@@ -25,3 +25,11 @@ public class SecondLargest {
     }
 }
 
+// Arrays.sort(arr);
+
+// for(int i = 0; i <= n-2; i++){
+//     if(arr[n-2] != arr[n-1]){
+//         return arr[n-2];
+//     }
+// }
+// return -1;
