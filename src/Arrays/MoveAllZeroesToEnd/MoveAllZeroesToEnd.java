@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.MoveAllZeroesToEnd;
 
 public class MoveAllZeroesToEnd {
     public static void pushZerosToEnd(int[] arr) {
