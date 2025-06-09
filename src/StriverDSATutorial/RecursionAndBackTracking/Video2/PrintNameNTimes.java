@@ -1,4 +1,4 @@
-package StriverDSATutorial.RecursionAndBackTracking;
+package StriverDSATutorial.RecursionAndBackTracking.Video2;
 
 public class PrintNameNTimes {
     public static void main(String[] args) {

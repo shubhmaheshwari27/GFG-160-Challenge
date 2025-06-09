@@ -1,4 +1,4 @@
-package StriverDSATutorial.RecursionAndBackTracking;
+package StriverDSATutorial.RecursionAndBackTracking.Video2;
 
 public class PrintIToNUsingBackTracking {
     private static void printIToN(int i, int n){
